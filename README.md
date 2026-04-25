@@ -2,6 +2,9 @@
 
 I built Fitness Flow to create a seamless, real-time experience for tracking physical and mental health. This project was my deep dive into cross-platform mobile development using Flutter and cloud-based data management with Firebase.
 
+### Demo video Link:
+https://drive.google.com/file/d/1jTnpfkljKtW31SyIAbss7nvdPEnsOS6r/view?usp=sharing
+
 ### The Logic Behind the App
 The app isn't just a static logger; it’s built for real-time interaction. I used Firestore as the backbone to ensure that as soon as a user logs a workout or a breathing session, it's synced across all their devices instantly.
 
