@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010007606218",
+    "project_id": "fitness-flow-dc59c",
+    "storage_bucket": "fitness-flow-dc59c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010007606218:android:832e5c299a9d02019b8533",
+        "android_client_info": {
+          "package_name": "com.example.fitness_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_653tQKLo6klYkzMB5Tfdm3eNEk1Bo1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
